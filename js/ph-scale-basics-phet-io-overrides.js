@@ -1,37 +1,31 @@
 /* eslint-disable */
 window.phet.preloads.phetio.phetioElementsOverrides =
   {
-    "phScaleBasics.global.model.solutes.batteryAcid.nameProperty": {
+    "phScale.global.model.solutes.batteryAcid.nameProperty": {
       "phetioFeatured": true
     },
-    "phScaleBasics.global.model.solutes.blood.nameProperty": {
+    "phScale.global.model.solutes.nitricAcid.nameProperty": {
       "phetioFeatured": true
     },
-    "phScaleBasics.global.model.solutes.chickenSoup.nameProperty": {
+    "phScale.global.model.solutes.soap.nameProperty": {
       "phetioFeatured": true
     },
-    "phScaleBasics.global.model.solutes.coffee.nameProperty": {
+    "phScale.global.model.solutes.ammonium.nameProperty": {
       "phetioFeatured": true
     },
-    "phScaleBasics.global.model.solutes.drainCleaner.nameProperty": {
+    "phScale.global.model.solutes.phosphoricAcid.nameProperty": {
       "phetioFeatured": true
     },
-    "phScaleBasics.global.model.solutes.handSoap.nameProperty": {
+    "phScale.global.model.solutes.sulfuricAcid.nameProperty": {
       "phetioFeatured": true
     },
-    "phScaleBasics.global.model.solutes.milk.nameProperty": {
+    "phScale.global.model.solutes.potassiumSulfate.nameProperty": {
       "phetioFeatured": true
     },
-    "phScaleBasics.global.model.solutes.orangeJuice.nameProperty": {
+    "phScale.global.model.solutes.saltWater.nameProperty": {
       "phetioFeatured": true
     },
-    "phScaleBasics.global.model.solutes.soda.nameProperty": {
-      "phetioFeatured": true
-    },
-    "phScaleBasics.global.model.solutes.spit.nameProperty": {
-      "phetioFeatured": true
-    },
-    "phScaleBasics.global.model.solutes.vomit.nameProperty": {
+    "phScale.global.model.solutes.lime.nameProperty": {
       "phetioFeatured": true
     },
     "phScaleBasics.global.model.solutes.water.nameProperty": {
